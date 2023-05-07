@@ -35,6 +35,14 @@
         font-size: 65px;
         opacity: 90%;
     }
+
+    .arrow {
+  
+        font-size: 70px;
+        color: #d8d8d8;
+        padding: 20px;
+        margin-top: 36px;
+     }
  }
 
  @media screen and (min-width: 768px) and (max-width: 1199px) {
@@ -44,5 +52,13 @@
         font-size: 55px;
         opacity: 90%;
     }
+
+    .arrow {
+  
+        font-size: 60px;
+        color: #d8d8d8;
+        padding: 20px;
+      
+     }
 
  }

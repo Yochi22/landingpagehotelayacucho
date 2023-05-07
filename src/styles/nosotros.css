@@ -1,0 +1,49 @@
+.container {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 15px;
+}
+
+.fotofachada {
+    margin-top: 70px;
+}
+
+@media screen and (min-width: 1200px) {
+.contenedor { 
+    margin-left: 205px;
+}
+
+.textprincipal {
+    font-size: 45px;
+}
+
+.textparrafo {
+    font-size: 20px;
+}
+
+.fotofachada {
+   width: 50%;
+   margin-top: 15px;
+}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+    .contenedor { 
+        margin-left: 145px;
+    }
+    
+    .textprincipal {
+        font-size: 40px;
+    }
+    
+    .textparrafo {
+        font-size: 20px;
+    }
+    
+    .fotofachada {
+       width: 70%;
+       margin-top: 15px;
+    }
+    
+}

@@ -83,7 +83,13 @@ const CarrouselOne = () => {
               </div>
             </div>
           </div>
-        </div>
+
+
+</div>
+
+
+
+
       );
     };
 

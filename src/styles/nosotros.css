@@ -9,8 +9,10 @@
 }
 
 @media screen and (min-width: 1200px) {
-.contenedor { 
-    margin-left: 205px;
+.container { 
+    padding-left: 260px;
+    padding-right: 80px;
+
 }
 
 .textprincipal {
@@ -29,8 +31,9 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1199px) {
-    .contenedor { 
-        margin-left: 145px;
+    .container { 
+        padding-left: 180px;
+        padding-right: 80px;
     }
     
     .textprincipal {

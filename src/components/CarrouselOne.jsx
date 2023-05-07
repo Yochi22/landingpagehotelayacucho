@@ -57,7 +57,13 @@ const CarrouselOne = () => {
       }, [currentIndex]);
     
       return (
-        <div className="flex justify-center">
+        
+        <div className="carousel flex justify-center">
+            <div className="titulo">
+                <hr />
+                <h3>Confort y economía</h3>
+                <hr />
+            </div>
           <div className="w-7/12">
             <div className="relative h-96 my-10 ">
               <img
@@ -80,5 +86,5 @@ const CarrouselOne = () => {
         </div>
       );
     };
-    
+
 export default CarrouselOne

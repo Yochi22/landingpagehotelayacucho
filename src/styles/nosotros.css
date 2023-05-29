@@ -1,4 +1,4 @@
-.container {
+.containernosotros {
     padding-left: 40px;
     padding-right: 40px;
     margin-top: 15px;
@@ -9,8 +9,8 @@
 }
 
 @media screen and (min-width: 1200px) {
-.container { 
-    padding-left: 260px;
+.containernosotros { 
+    padding-left: 264px;
     padding-right: 80px;
 
 }
@@ -31,7 +31,7 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1199px) {
-    .container { 
+    .containernosotros { 
         padding-left: 180px;
         padding-right: 80px;
     }

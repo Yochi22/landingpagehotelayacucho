@@ -5,7 +5,7 @@ import '../styles/nosotros.css'
 export const Nosotros = () => {
   return (
 
-<div className='container'>
+<div className='containernosotros'>
   <div className="contenedor grid justify-center mx-auto max-w-screen-lg grid-cols-2 lg:grid-cols-2 gap-4">
     <div>
       <div className="max-w-500">

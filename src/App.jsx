@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Navbar from './components/Navbar'
 import CarrouselOne from './components/CarrouselOne'
 import Nosotros from './components/Nosotros'
-import Rooms from './components/Rooms'
+import Carousel from './components/Carousel'
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
     <Navbar />
     <CarrouselOne />
     <Nosotros />
-    <Rooms />
+  <Carousel />
     </>
   )
 }

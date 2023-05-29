@@ -4,7 +4,8 @@ import CarrouselOne from './components/CarrouselOne'
 import Nosotros from './components/Nosotros'
 import Carousel from './components/Carousel'
 import CardContainer from './components/CardContainer'
-
+import { Contacto } from './components/Contacto'
+import RedesSociales from './components/RedesSociales'
 
 function App() {
 
@@ -15,6 +16,8 @@ function App() {
     <Nosotros />
   <Carousel />
   <CardContainer />
+  <Contacto />
+  <RedesSociales />
     </>
   )
 }

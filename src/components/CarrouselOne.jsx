@@ -58,7 +58,7 @@ const CarrouselOne = () => {
     
       return (
         
-        <div className="carousel flex justify-center">
+        <div id="Home"className="carousel flex justify-center">
             <div className="titulo">
                 <hr />
                 <h3>Confort y economía</h3>

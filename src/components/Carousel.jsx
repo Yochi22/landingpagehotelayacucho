@@ -51,7 +51,7 @@ const Carousel = () => {
 
 
   return (
-    <div className='container'>
+    <div id="Rooms" className='container'>
         <div className='titulohabitaciones'>
         <h2>NUESTRAS HABITACIONES</h2>
         </div>

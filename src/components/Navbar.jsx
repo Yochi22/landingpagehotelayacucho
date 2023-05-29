@@ -24,17 +24,17 @@ const Navbar = () => {
   </div>
   <div className={`w-full block lg:flex lg:items-center lg:w-auto pr-14 ${isOpen ? '' : 'hidden'}`}>
     <div className="text-sm lg:flex-grow">
-      <a href="#responsive-header" className="mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800 mr-4">
+      <a href="#Home" className="mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800 mr-4">
         INICIO
       </a>
-      <a href="#responsive-header" className="mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800 mr-4">
+      <a href="#Nosotros" className="mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800 mr-4">
         NOSOTROS
       </a>
-      <a href="#responsive-header" className=" mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800 mr-4">
+      <a href="#Rooms" className=" mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800 mr-4">
         HABITACIONES
       </a>
     
-      <a href="#responsive-header" className="mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800">
+      <a href="#Contact" className="mt-4 lg:inline-block lg:mt-0 font-bold text-stone-500 hover:text-amber-800">
         CONTACTO
       </a>
 
